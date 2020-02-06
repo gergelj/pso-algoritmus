@@ -20,42 +20,52 @@ python pso.py
 
 ### Ackley függvény `ackley`
 
-![ackley](functions/ackley3D.png)
-
 Globális optimum: `f(0, 0) = 0`
+
+![ackley](functions/ackley3D.png)
 
 ### Easom függvény `easom`
 
-![easom](functions/easom3D.png)
-
 Globális optimum: `f(pi, pi) = -1`
+
+![easom](functions/easom3D.png)
 
 ### Griewank függvény `griewank`
 
-![griewank](functions/griewank3D.png)
-
 Globális optimum: `f(0, 0) = 0`
+
+![griewank](functions/griewank3D.png)
 
 ### Rastrigin függvény `rastrigin`
 
-![rastrigin](functions/rastrigin3D.png)
-
 Globális optimum: `f(0, 0) = 0`
+
+![rastrigin](functions/rastrigin3D.png)
 
 ### Rosenbrock függvény `rosenbrock`
 
-![rosenbrock](functions/rosenbrock3D.png)
-
 Globális optimum: `f(1, 1) = 0`
+
+![rosenbrock](functions/rosenbrock3D.png)
 
 ### Szférikus függvény `sphere`
 
-![sphere](functions/sphere3D.png)
-
 Globális optimum: `f(0, 0) = 0`
+
+![sphere](functions/sphere3D.png)
 
 ### Styblinksi függvény `styblinski`
 
+Globális optimum: `f(-2.903534, -2.903534) = -78.332`
+
 ![styblinski](functions/styblinski3D.png)
 
-Globális optimum: `f(-2.903534, -2.903534) = -78.332`
+## Követelmények
+
+Python 3.8
+
+NumPy
+
+matplotlib
+
+OS: Linux
